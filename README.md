@@ -3,6 +3,8 @@
 ## Purpose
 The purpose of Syndi The Community Co-Pilot is to accelerate the go-to-market of key founders and projects in the Stacks Ecosystem.
 
+![Testimonial](Testimonial_Stu.jpeg)
+
 ## Milestone 4 Final Deliverables:
 - FAQ, Recruiting & Matchmaking Agent (.vf file)
 - ExO Agent (.vf file)
@@ -100,4 +102,4 @@ The spaces immediately following the Charisma Exploit had a combined audience of
 - [View Full List](https://spacesdashboard.com/u/attractfund1ng?hosted=2)
 
 ## Conclusion
-As we're connected to the key founders and projects in the Stacks Ecosystem through various Twitter DM Groups, we're currently incorporating user feedback into the AI. For example, here's a response from Rapha given a response from the AI about how Nakomoto works and why Nakomoto block performance might be surprising in the early days for observers.
+The 
