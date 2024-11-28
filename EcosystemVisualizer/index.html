@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Stacks Blockchain Ecosystem #DeGrants</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/darkmode-js"></script>
+    <style>
+        /* Add styles for the iframe */
+        #ipod-embed {
+            position: fixed; /* Fixed position to stay in the same place */
+            bottom: 20px; /* Distance from the bottom */
+            left: 20px; /* Distance from the left */
+            width: 300px; /* Width of the iframe */
+            height: 0; /* Start collapsed */
+            border: none; /* Remove border */
+            overflow: hidden; /* Hide overflow */
+            transition: height 0.3s ease; /* Smooth transition for height */
+        }
+
+        /* Expanded state */
+        #ipod-embed.expanded {
+            height: 550px; /* Height when expanded */
+        }
+
+        /* Button styles */
+        #toggleIpod {
+            position: fixed;
+            bottom: 80px; /* Position above the iframe */
+            left: 20px;
+            z-index: 1001; /* Ensure it appears above other content */
+            padding: 10px 15px;
+            background-color: #4CAF50; /* Button color */
+            color: white; /* Text color */
+            border: none; /* Remove border */
+            border-radius: 5px; /* Rounded corners */
+            cursor: pointer; /* Pointer cursor */
+        }
+
+        /* Dark mode button styles */
+        .darkmode-toggle {
+            position: fixed; /* Fixed position */
+            top: 20px; /* Distance from the top */
+            right: 20px; /* Distance from the right */
+            z-index: 1001; /* Ensure it appears above other content */
+            padding: 10px 15px;
+            background-color: #4CAF50; /* Button color */
+            color: white; /* Text color */
+            border: none; /* Remove border */
+            border-radius: 5px; /* Rounded corners */
+            cursor: pointer; /* Pointer cursor */
+        }
+    </style>
+</head>
+<body>
+
+    <div id="visualization"></div>
+    <div id="zoom-controls">
+
+    </div>
+
+    <div id="infoPanel">
+        <span id="closeInfo">×</span>
+        <h3 id="infoTitle"></h3>
+        <p id="infoDescription"></p>
+        <a id="infoLink" target="_blank"></a>
+    </div>
+
+    <!-- Toggle button for iPod -->
+    <button id="toggleIpod">Show iPod</button>
+    <iframe id="ipod-embed" src="ipod.html"></iframe>
+
+    <script type="text/javascript">
+        (function(d, t) {
+            var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
+            v.onload = function() {
+              window.voiceflow.chat.load({
+                verify: { projectID: '66e393f708a05874bb3b1cce' },
+                url: 'https://general-runtime.voiceflow.com',
+                versionID: 'production'
+              });
+            }
+            v.src = "https://cdn.voiceflow.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
+        })(document, 'script');
+
+        // Toggle iPod visibility
+        const toggleIpodButton = document.getElementById('toggleIpod');
+        const ipodEmbed = document.getElementById('ipod-embed');
+
+        toggleIpodButton.addEventListener('click', () => {
+            ipodEmbed.classList.toggle('expanded'); // Toggle the expanded class
+            toggleIpodButton.textContent = ipodEmbed.classList.contains('expanded') ? 'Hide iPod' : 'Show iPod'; // Update button text
+        });
+
+        // Initialize Darkmode.js
+        const darkmode = new Darkmode({
+            bottom: 'unset', // Remove bottom positioning
+            right: 'unset', // Remove right positioning
+            top: '20px', // Position from the top
+            left: 'unset', // Remove left positioning
+            time: '0.5s', // Transition time
+            mixColor: '#fff', // Color to mix with
+            backgroundColor: '#fff', // Background color
+            buttonColorDark: '#100f2c', // Dark mode button color
+            buttonColorLight: '#fff', // Light mode button color
+            saveInCookies: true, // Save in cookies
+            label: '🌓', // Label for the button
+            autoMatchOsTheme: true // Automatically match OS theme
+        });
+
+        darkmode.showWidget(); // Show the dark mode toggle button
+    </script>
+
+    <script type="module" src="script.js"></script>
+</body>
+</html>
