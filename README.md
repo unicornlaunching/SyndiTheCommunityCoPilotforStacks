@@ -3,7 +3,7 @@
 ## Purpose
 The purpose of Syndi The Community Co-Pilot is to accelerate the go-to-market of key founders and projects in the Stacks Ecosystem.
 
-![Testimonial](Testimonial_Stu.jpeg)
+![Testimonial](Testimonial_Stu.png)
 
 ## Milestone 4 Final Deliverables:
 - FAQ, Recruiting & Matchmaking Agent (.vf file)
