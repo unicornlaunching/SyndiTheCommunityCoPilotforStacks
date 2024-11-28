@@ -30,11 +30,20 @@ After testing a few user interfaces, The Stacks Interactive Ecosystem Visualizat
 
 ![Stacks Interactive Ecosystem Visualization](stacks_ecosystem_visualization.png)
 
+### How might we improve the Stacks Interactive Ecosystem Visualization?
+- Fix all links (Fixed in Milestone 4)
+- Add branch for Creators (Artists) (Fixed in Milestone 4)
+- Ensure that everyone in the stacks ecosystem can embed the visualization on their page (Fixed in Milestone 4)
+- Add the Syndi Suite of AI Agents trained on Stacks so they can have a visual, interactive, and conversational experience all on one screen. (Fixed in Milestone 4)
+
 ### AI-powered Chatbot Prototype
 - [Syndi The FAQ Recruiting & Matchmaking Agent](https://creator.voiceflow.com/prototype/66e393f708a05874bb3b1cce)
 
 ### Accelerating Product Development with AI with Zero To Clarity
 - [Watch](https://www.youtube.com/embed/la7nahFaVDY?si=ncCPm7CDnGyIhj_W)
+
+### Accelerating Product Development with AI with TripnM0nkey & STX.Vision
+![Testimonial by TripnM0nkey](stxvision_testimonial.png)
 
 ### Teaching Key Founders How To Code on Stacks with AI
 > [@GPSC_STX](https://twitter.com/GPSC_STX?ref_src=twsrc%5Etfw) learns how to code. [http://pic.twitter.com/gw6GSsYyEP](https://t.co/gw6GSsYyEP)
@@ -45,16 +54,11 @@ After testing a few user interfaces, The Stacks Interactive Ecosystem Visualizat
 > // a thread 🧵 [pic.twitter.com/dhMnbflDOr](https://t.co/dhMnbflDOr)
 > — Soyouwanna (@attractfund1ng) [October 28, 2024](https://twitter.com/attractfund1ng/status/1850716790424273199?ref_src=twsrc%5Etfw)
 
-**Click Watch On X for full thread**
-
-### How might we improve the Stacks Interactive Ecosystem Visualization?
-- Fix all links (Fixed in Mielstone 4)
-- Add branch for Creators (Artists) (Fixed in Milestone 4)
-- Ensure that everyone in the stacks ecosystem can embed the visualization on their page (Fixed in Milestone 4)
-- Add the Syndi Suite of AI Agents trained on Stacks so they can have a visual, interactive, and conversational experience all on one screen. (Fixed in Milestone 4)
-
 ## The Syndi AI Suite of Agents for Stacks
 After testing the Syndi AI Suite of Agents, we now know the information we're getting back on really technical questions is valid.
+
+## Accelerating Product Development with AI To Maximize Every Pixel For Ordinals
+![PixelLabs by Ayden](pixellabs.png)
 
 ### How might we improve The Syndi AI Suite of Agents for Stacks?
 - Make the token size larger for more complex questions (Fixed in Milestone 4)
@@ -109,4 +113,3 @@ The spaces immediately following the Charisma Exploit had a combined audience of
 Given that we've now motivated key members of the stacks ecosystem to begin building with AI, the purpose of Syndi The Community Co-Pilot is complete.
 
 ![STX.Vision by TripnM0nkey](stxvision_screenshot.png)
-![Testimonial by TripnM0nkey](stxvision_testimonial.png)
