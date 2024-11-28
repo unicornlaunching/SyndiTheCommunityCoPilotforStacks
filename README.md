@@ -46,7 +46,7 @@ After testing a few user interfaces, The Stacks Interactive Ecosystem Visualizat
 ![Testimonial by TripnM0nkey](stxvision_testimonial.png)
 
 ### Regular AI Show on DeOrganized Media
-[![The Syndicate AI Deep Dive on DeOrganized Media](DeOrganized.png)](https://youtu.be/vNMoP7JseG8)
+[![The Syndicate AI Deep Dive on DeOrganized Media](DeOrganized.jpg)](https://youtu.be/vNMoP7JseG8)
 
 ### Teaching Key Founders How To Code on Stacks with AI
 > [@GPSC_STX](https://twitter.com/GPSC_STX?ref_src=twsrc%5Etfw) learns how to code. [http://pic.twitter.com/gw6GSsYyEP](https://t.co/gw6GSsYyEP)
@@ -61,7 +61,7 @@ After testing a few user interfaces, The Stacks Interactive Ecosystem Visualizat
 After testing the Syndi AI Suite of Agents, we now know the information we're getting back on really technical questions is valid.
 
 ## Accelerating Product Development with AI To Maximize Every Pixel For Ordinals
-![PixelLabs by Ayden](pixellabs.png)
+![PixelLabs by Ayden](pixellabs.jpg)
 
 ### How might we improve The Syndi AI Suite of Agents for Stacks?
 - Make the token size larger for more complex questions (Fixed in Milestone 4)
