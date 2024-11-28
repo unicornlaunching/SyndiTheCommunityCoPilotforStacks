@@ -28,6 +28,8 @@ After testing a few user interfaces, The Stacks Interactive Ecosystem Visualizat
 - [GPSC Feedback on Visualization](https://x.com/attractfund1ng/status/1851820080188805498)
 - [Experience The Stacks Ecosystem](https://discoverstacks.netlify.app/) - Milestone 4
 
+![Stacks Interactive Ecosystem Visualization](stacks_ecosystem_visualization.png)
+
 ### AI-powered Chatbot Prototype
 - [Syndi The FAQ Recruiting & Matchmaking Agent](https://creator.voiceflow.com/prototype/66e393f708a05874bb3b1cce)
 
