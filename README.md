@@ -45,6 +45,9 @@ After testing a few user interfaces, The Stacks Interactive Ecosystem Visualizat
 ### Accelerating Product Development with AI with TripnM0nkey & STX.Vision
 ![Testimonial by TripnM0nkey](stxvision_testimonial.png)
 
+### Regular AI Show on DeOrganized Media
+[![The Syndicate AI Deep Dive on DeOrganized Media](DeOrganized.png)](https://youtu.be/vNMoP7JseG8)
+
 ### Teaching Key Founders How To Code on Stacks with AI
 > [@GPSC_STX](https://twitter.com/GPSC_STX?ref_src=twsrc%5Etfw) learns how to code. [http://pic.twitter.com/gw6GSsYyEP](https://t.co/gw6GSsYyEP)
 > — Soyouwanna (@attractfund1ng) [October 31, 2024](https://twitter.com/attractfund1ng/status/1851811571028144318?ref_src=twsrc%5Etfw)
