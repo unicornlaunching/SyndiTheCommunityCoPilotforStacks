@@ -104,4 +104,7 @@ The spaces immediately following the Charisma Exploit had a combined audience of
 - [View Full List](https://spacesdashboard.com/u/attractfund1ng?hosted=2)
 
 ## Conclusion
-The 
+Given that we've now motivated key members of the stacks ecosystem to begin building with AI, the purpose of Syndi The Community Co-Pilot is complete.
+
+![STX.Vision by TripnM0nkey](stxvision_screenshot.png)
+![Testimonial by TripnM0nkey](stxvision_testimonial.png)
