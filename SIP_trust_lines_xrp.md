@@ -1,6 +1,10 @@
 # TRUST LINES ON STACKS | XRP IMPLEMENTATION
 ## SIP TYPE: Non-Consensus Breaking Change
 
+## EXECUTIVE SUMMARY
+
+This SIP proposes the introduction of Trust Lines to the Stacks blockchain as a non-consensus breaking mechanism to facilitate flexible and trust-based token management within the Stacks ecosystem.
+
 ##### SIP Number: (To be assigned by SIP Editor)
 
 ##### Title: Introducing Trust Lines to the Stacks Blockchain
