@@ -5,6 +5,24 @@
 
 This SIP proposes the introduction of Trust Lines to the Stacks blockchain as a non-consensus breaking mechanism to facilitate flexible and trust-based token management within the Stacks ecosystem.
 
+## FEATURES ATTRIBUTES AND BENEFITS FOR STACKS BY INTRODUCING TRUST LINES
+
+- Increased Flexibility: Trust Lines provide a more granular and customizable approach to managing token relationships between users.
+- Reduced On-Chain Transactions: Transactions within Trust Lines can occur off-chain, reducing the load on the Stacks blockchain and potentially lowering transaction fees.
+- Enhanced Privacy: Transactions within established Trust Lines can remain private between the counterparties.
+
+## BACKWARDS COMPATIBILITY
+
+The introduction of Trust Lines as outlined in this SIP will be implemented as a Clarity library, operating on top of existing token standards and functionalities. Therefore, it will be fully backward compatible and will not require any changes to existing Stacks contracts or functionalities.
+
+## ACTIVATION
+
+This SIP will be considered activated when the following criteria are met:
+
+- The proposed Clarity library for Trust Lines is developed and publicly available.
+- At least three dApps or applications on the Stacks blockchain have integrated and actively utilize the Trust Line functionality.
+- Documentation and tutorials for using the Trust Lines library are readily available for developers.
+
 ##### SIP Number: (To be assigned by SIP Editor)
 
 ##### Title: Introducing Trust Lines to the Stacks Blockchain
