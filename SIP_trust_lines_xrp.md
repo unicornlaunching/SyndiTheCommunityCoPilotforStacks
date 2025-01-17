@@ -10,16 +10,16 @@ This SIP proposes the introduction of Trust Lines to the Stacks blockchain as a 
 This SIP outlines a new Clarity library and corresponding functions for implementing Trust Lines on the Stacks blockchain. The Trust Lines mechanism would operate as a layer on top of existing token standards and would not require any consensus-breaking changes to the Stacks blockchain.
 
 The proposed Trust Lines system will include the following features:
-- Trust Line Establishment: Users can establish a Trust Line for a specific token with another user by specifying the token, the counterparty, and the credit limit.
-- Token Transfers via Trust Lines: Transfers of tokens between accounts with established Trust Lines can occur without requiring immediate on-chain settlements. The system will maintain a balance ledger for each Trust Line, tracking credits and debits.
-- Trust Line Modification: Users can modify the credit limit of an existing Trust Line, either increasing or decreasing it.
-- Trust Line Closure: Users can close a Trust Line, settling any outstanding balances using on-chain token transfers.
+- **Trust Line Establishment**: Users can establish a Trust Line for a specific token with another user by specifying the token, the counterparty, and the credit limit.
+- **Token Transfers via Trust Lines**: Transfers of tokens between accounts with established Trust Lines can occur without requiring immediate on-chain settlements. The system will maintain a balance ledger for each Trust Line, tracking credits and debits.
+- **Trust Line Modification**: Users can modify the credit limit of an existing Trust Line, either increasing or decreasing it.
+- **Trust Line Closure**: Users can close a Trust Line, settling any outstanding balances using on-chain token transfers.
 
 The Clarity library will provide the following functions:
-- establish-trust-line: Creates a new Trust Line between two accounts.
-- transfer-via-trust-line: Executes a token transfer through an existing Trust Line.
-- modify-trust-line: Changes the credit limit of a Trust Line.
-- close-trust-line: Settles outstanding balances and closes a Trust Line.
+- **establish-trust-line**: Creates a new Trust Line between two accounts.
+- **transfer-via-trust-line**: Executes a token transfer through an existing Trust Line.
+- **modify-trust-line**: Changes the credit limit of a Trust Line.
+- **close-trust-line**: Settles outstanding balances and closes a Trust Line.
 
 ## FEATURES ATTRIBUTES AND BENEFITS FOR STACKS BY INTRODUCING TRUST LINES
 
