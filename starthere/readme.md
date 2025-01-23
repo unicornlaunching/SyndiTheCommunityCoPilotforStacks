@@ -1,10 +1,6 @@
-# Keep Shit Outcha Wallet
+# KEEP SHIT OUTCHA WALLET
 ## Trust Lines on Stacks | XRP Spec
 ### By introducing Trust Lines on Stacks | XRP spec, stacks price go up by enabling trusted microcosms on-chain, allowing for exchanges, AMMs, order books and more to be created in seconds just like on XRP.
-
-# KEEP SHIT OUTCHA WALLET
-## TRUST LINES ENSURE THAT ONLY PEOPLE YOU TRUST CAN TRANSACT WITH YOU
-# TRUST LINES ON STACKS | XRP IMPLEMENTATION
 
 ## EXECUTIVE SUMMARY
 
