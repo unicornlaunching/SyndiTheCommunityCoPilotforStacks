@@ -26,7 +26,9 @@ This SIP proposes the introduction of Trust Lines to the Stacks blockchain as a 
 
 ##### License: BSD-2-Clause
 
-##### Discussions-To: (Link to a relevant forum or mailing list)
+##### Discussions-To: -
+
+##### How This SIMP Was Made: https://x.com/attractfund1ng/status/1880351737829290470
 
 ## GET TO THE TECHNICAL POINT ALREADY
 
