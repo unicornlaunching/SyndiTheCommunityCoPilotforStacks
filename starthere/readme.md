@@ -2,6 +2,8 @@
 ## Trust Lines on Stacks | XRP Spec
 ### By introducing Trust Lines on Stacks | XRP spec, stacks price go up by enabling trusted microcosms on-chain, allowing for exchanges, AMMs, order books and more to be created in seconds just like on XRP.
 
+![Trustlines Binance XRP](trustlines.jpeg)
+
 ## EXECUTIVE SUMMARY
 
 This SIP proposes the introduction of Trust Lines to the Stacks blockchain as a non-consensus breaking mechanism to facilitate flexible and trust-based token management within the Stacks ecosystem.
