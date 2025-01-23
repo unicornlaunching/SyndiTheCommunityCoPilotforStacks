@@ -61,3 +61,8 @@ This SIP will be considered activated when the following criteria are met:
 - The proposed Clarity library for Trust Lines is developed and publicly available.
 - At least three dApps or applications on the Stacks blockchain have integrated and actively utilize the Trust Line functionality.
 - Documentation and tutorials for using the Trust Lines library are readily available for developers.
+
+![XRP_Trust_Line_Spec](XRP_trustline_spec.png)
+
+See full XRP Trust Line Spec here:
+https://xrpl.org/docs/concepts/tokens/fungible-tokens/authorized-trust-lines
