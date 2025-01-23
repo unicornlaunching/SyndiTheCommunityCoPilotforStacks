@@ -14,7 +14,7 @@ This SIP proposes the introduction of Trust Lines to the Stacks blockchain as a 
 
 ##### Title: Introducing Trust Lines to the Stacks Blockchain
 
-##### Author: Bard (bard@example.com)
+##### Author: Michael Jagdeo | NotebookLM | Stacks Community | @attractfund1ng
 
 ##### Consideration: Technical
 
