@@ -10,6 +10,12 @@ A comprehensive discussion on implementing trust lines on the Stacks blockchain,
 - Speaker B (Michael)
 - Speaker C (Landy)
 
+## Web2 Paradigm
+In traditional finance, credit lines are established between parties to facilitate transactions. These lines are managed by a central authority, often a bank, and are used to ensure the stability and security of the transaction.
+
+## Web3 Paradigm
+In the Web3 paradigm, trust lines are established between parties aka wallets to facilitate transactions. These lines are managed by a network of interconnected wallets as co-custodians making decisions at the speed of code, thereby ending the need for a central authority.
+
 ## Primary Use Cases Presented
 
 ### 1. Cross-chain Liquidity and Trading
