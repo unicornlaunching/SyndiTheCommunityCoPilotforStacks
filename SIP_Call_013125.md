@@ -1,4 +1,5 @@
 # Executive Summary for Stacks Ecosystem Stakeholders (SIP Call)
+## Created with AOScribe & @dearsyndi
 
 ![Trust Line Wallet Demo](Trust_Line_Wallet_Demo.jpg)
 
