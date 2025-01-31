@@ -1,4 +1,6 @@
-# Executive Summary for Stacks Ecosystem Stakeholders
+# Executive Summary for Stacks Ecosystem Stakeholders (SIP Call)
+
+![Trust Line Wallet Demo](Trust_Line_Wallet_Demo.jpg)
 
 ### Creative Breakthrough Canvas:
 
