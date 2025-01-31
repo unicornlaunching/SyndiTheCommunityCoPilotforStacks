@@ -2,6 +2,8 @@
 
 ![Trust Line Wallet Demo](Trust_Line_Wallet_Demo.jpg)
 
+Wallet Demo: https://resilient-bombolone-da0704.netlify.app/
+
 ### Creative Breakthrough Canvas:
 
 #### End Result:
