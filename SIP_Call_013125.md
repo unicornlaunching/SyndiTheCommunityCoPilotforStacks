@@ -1,5 +1,5 @@
 # Executive Summary for Stacks Ecosystem Stakeholders (SIP Call)
-## Created with AOScribe & @dearsyndi
+## Created with AOScribe & @dearsyndi | DeGrants Phase II Lead by Hero
 
 ![Trust Line Wallet Demo](Trust_Line_Wallet_Demo.jpg)
 
